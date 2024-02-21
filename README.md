@@ -2,6 +2,13 @@
 
 This application is designed to integrate TikTok posts into Discord servers seamlessly. It utilizes TikTok's official API to receive webhooks of user posts and automatically shares them on Discord.
 
+# Table of Contents
+
+1. [Features](#features)
+2. [Privacy Policy](#privacy-policy)
+3. [Terms of Service](#terms-of-service)
+4. [License](#license)
+
 ## Features
 
 - Receive TikTok post webhooks.
@@ -19,6 +26,8 @@ This Privacy Policy explains how we collect, use, disclose, and safeguard your i
 5. **Children's Privacy:** Our services are not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
 6. **Changes to This Privacy Policy:** We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
+To view copy of our Privacy Policy, please visit [here](https://sebastiabaro.github.io/TikTokAPI/privacy.html).
+
 ## Terms of Service
 
 Welcome to our application! By accessing or using our services, you agree to comply with these Terms of Service. Please read them carefully before using our application.
@@ -30,6 +39,9 @@ Welcome to our application! By accessing or using our services, you agree to com
 5. **Termination:** We may terminate or suspend your access to our services immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
 6. **Governing Law:** These Terms shall be governed and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
 7. **Changes:** We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+
+To view copy of our Terms of Service, please visit [here](https://sebastiabaro.github.io/TikTokAPI/terms.html).
 
 
 ## License
